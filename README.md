@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @sabrinacoralv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I’m @sabrinacoralv 🌺
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Java
+- 💞️ I’m currently working using JavaScript and vue Js
+
+
+### reach me sabrinacoralv@gmail.com
 
 <!---
 sabrinacoralv/sabrinacoralv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
