@@ -1,6 +1,6 @@
 # Hi, I’m @sabrinacoralv 🌺
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning NodeJS
 - 💞️ I’m currently working using JavaScript and vue Js
 
 
